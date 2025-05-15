@@ -1,4 +1,4 @@
-# 🍃 Stellaris DLC Unlocker - Free DLC Unlocker that works as of 2025!
+# Stellaris DLC Unlocker - Free DLC Unlocker that works as of 2025!
 
 ## 📥 Getting Started
 To get started with Stellaris DLC Unlocker, follow these simple steps:
